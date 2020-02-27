@@ -1,1 +1,1 @@
-# Yana_Academy
+# YanaAcademy
