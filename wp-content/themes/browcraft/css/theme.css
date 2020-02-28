@@ -1659,7 +1659,8 @@ header.aside_header {
 .header_socials li a {
 	font-size: 19px;
     position: relative;
-    margin: 0 auto;
+	margin: 0 auto;
+	color:#8e6d0fd6;
 }
 /* Aside Menu Wrapper */
 .aside_menu_block {
