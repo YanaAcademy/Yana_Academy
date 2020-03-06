@@ -1,4 +1,4 @@
-/* This is the default Tooltipster theme (feel free to modify or duplicate and create multiple themes!): */
+
 .tooltipster-default {
 	border-radius: 5px; 
 	border: 2px solid #000;
@@ -26,12 +26,6 @@
 	cursor: help;
 	margin-left: 4px;
 }
-
-
-
-
-
-
 
 
 /* This is the base styling required to make all Tooltipsters work */
@@ -141,7 +135,6 @@
 }
 
 
-/* Some CSS magic for the awesome animations - feel free to make your own custom animations and reference it in your Tooltipster settings! */
 
 .tooltipster-fade {
 	opacity: 0;
